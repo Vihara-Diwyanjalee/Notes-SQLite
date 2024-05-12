@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NotesSQLite" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/MediumSpringGreen</item>
+        <item name="colorPrimaryVariant">@color/MediumSpringGreen</item>
+        <item name="android:statusBarColor">@color/MediumSpringGreen</item>
+    </style>
+</resources>
