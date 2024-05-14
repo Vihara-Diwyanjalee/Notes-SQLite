@@ -6,4 +6,10 @@
     <color name="Aquamarine">#7FFFD4</color>
     <color name="DarkOliveGreen">#6B8E23</color>
     <color name="DarkGreen">#006400</color>
+    <color name="lawngreen">#7CFC00</color>
+    <color name="dimgray">#696969</color>
+    <color name="lime">#00FF00</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="honeydew">#F0FFF0</color>
 </resources>

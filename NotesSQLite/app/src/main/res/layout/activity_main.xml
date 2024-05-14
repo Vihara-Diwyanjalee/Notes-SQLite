@@ -5,26 +5,40 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/honeydew"
     tools:context=".MainActivity">
+
+   <TextView
+    android:id="@+id/hello"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_marginTop="30dp"
+    android:layout_marginLeft="20dp"
+    android:fontFamily="@font/poppins"
+    android:text="Hello"
+    android:layout_marginStart="18dp"
+    android:textColor="@color/lawngreen"
+    android:textSize="22sp"/>
 
    <TextView
        android:id="@+id/notesHeading"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
        android:layout_alignParentTop="true"
-       android:layout_marginTop="30dp"
+       android:layout_marginTop="60dp"
        android:layout_marginLeft="20dp"
        android:fontFamily="@font/poppins"
-       android:text="Notes"
+       android:text="All Tasks"
        android:layout_marginStart="18dp"
-       android:textColor="@color/MediumSpringGreen"
-       android:textSize="24sp"/>
+       android:textColor="@color/lime"
+       android:textSize="26sp"/>
 
    <androidx.recyclerview.widget.RecyclerView
        android:id="@+id/notesRecyclerView"
        android:layout_width="match_parent"
        android:layout_height="match_parent"
-       android:layout_marginTop="70dp"
+       android:layout_marginTop="85dp"
        android:padding="16dp" />
 
    <com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -33,7 +47,7 @@
        android:layout_height="wrap_content"
        android:layout_alignParentBottom="true"
        android:layout_alignParentEnd="true"
-       android:layout_marginBottom="16dp"
+       android:layout_marginBottom="20dp"
        android:layout_marginEnd="16dp"
        android:layout_marginStart="16dp"
        android:layout_marginTop="16dp"

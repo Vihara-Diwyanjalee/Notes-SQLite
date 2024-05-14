@@ -26,7 +26,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/poppins"
                 android:text="Title"
-                android:textColor="@color/MediumSpringGreen"
+                android:textColor="@color/DarkOliveGreen"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -56,6 +56,7 @@
             android:fontFamily="@font/poppins"
             android:maxLines="3"
             android:layout_marginTop="4dp"
+            android:textColor="@color/dimgray"
             android:textSize="18sp"
             android:textStyle="bold"/>
 
