@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 **1. Clone the repository.**
 
 ```
-git clone https://github.com/Vihara-Diwyanjalee/Kids-Maths-Game-App.git
+git clone https://github.com/Vihara-Diwyanjalee/ToDo-App.git
 ```
 
 **2. Open the project in Android Studio.**
@@ -38,4 +38,4 @@ git clone https://github.com/Vihara-Diwyanjalee/Kids-Maths-Game-App.git
 
 ## Screenshots
 
-<img src="https://github.com/Vihara-Diwyanjalee/Kids-Maths-Game-App/blob/main/app/src/main/res/drawable/sceenshots.png" alt="KidsMathsGame-Screenshots" width=1000>
+<img src="https://github.com/Vihara-Diwyanjalee/ToDo-App/blob/main/app/src/main/res/drawable/sceenshots.png" alt="KidsMathsGame-Screenshots" width=1000>
