@@ -11,17 +11,17 @@
 
 ## Overview
 
-Kids Maths Game is an engaging educational app designed to help children enhance their math skills. It offers practice in addition, subtraction, multiplication, and division through randomized questions and multiple-choice answers. The game features vibrant graphics and a straightforward gameplay interface, making learning fun and interactive for children aged five and above.
+Task-Master is a comprehensive task management application designed to streamline task organization and boost productivity. This intuitive tool allows users to efficiently create, prioritize, and manage their tasks, whether for personal to-do lists, professional projects, or daily reminders. With its user-friendly interface and robust feature set, Task-Master ensures users can stay focused and achieve their goals effortlessly.
 
 ## Features
 
-- **Educational Focus:** Targets key arithmetic skills including addition, subtraction, multiplication, and division.
-- **Interactive Gameplay:** Multiple-choice questions with instant feedback.
-- **Countdown Timer:** Encourages quick thinking and adds excitement.
-- **Score Tracking:** Monitors progress and builds confidence.
-- **User-Friendly Design:** Simple interface suitable for young children.
-- **Versatile Use:** Ideal for both home and classroom learning environments.
-
+- **Task Management Interface:** Simple and intuitive interface for creating and managing tasks.
+- **SQLite Database Integration:** Secure and efficient storage of tasks with SQLite database.
+- **Kotlin Coroutines:** Smooth and responsive performance for background task processing.
+- **ViewModel Architecture:**  Structured and maintainable code architecture.
+- **User Interaction:** Engaging user experience with interactive elements.
+- **Enhancements:** Additional features to further boost productivity and user satisfaction.
+  
 ## Installation
 
 To set up the project locally, follow these steps:
