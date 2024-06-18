@@ -38,4 +38,4 @@ git clone https://github.com/Vihara-Diwyanjalee/ToDo-App.git
 
 ## Screenshots
 
-<img src="https://github.com/Vihara-Diwyanjalee/ToDo-App/blob/main/app/src/main/res/drawable/sceenshots.png" alt="KidsMathsGame-Screenshots" width=1000>
+<img src="https://github.com/Vihara-Diwyanjalee/ToDo-App/blob/main/app/src/main/res/drawable/todos.png" alt="todos-Screenshots" width=1000>
